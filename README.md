@@ -1,3 +1,9 @@
+<ul style="list-style-type:none; display: flex;">
+  <li>Item 1 &nbsp;|&nbsp;</li>
+  <li>Item 2 &nbsp;|&nbsp;</li>
+  <li>Item 3</li>
+</ul>
+
 ## Estatísticas do GitHub
 
 [![Estatísticas Gabriel Gomes](https://github-readme-stats.vercel.app/api?username=gabriellgomess&show_icons=true&theme=dark)](https://github.com/gabriellgomess/github-readme-stats)
